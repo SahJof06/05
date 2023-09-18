@@ -1,0 +1,10 @@
+h1 {
+font-size: 30px;
+color: white;
+text-align: center;
+}
+body{
+    background-image: url(assets/eclipse.webp);
+    background-size: cover;
+    
+}
