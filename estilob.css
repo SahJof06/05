@@ -8,7 +8,7 @@ body {
 
 html {
     font-size: 10px;
-    background-image: url(/assets/ds3.webp);
+    background-image: url(/assets/yhar.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -26,14 +26,14 @@ body {
 h1,
 h2,
 h3 {
-    font-family: 'Paprika', cursive;
+    font-family: 'Dancing Script', cursive;
     color: #2a2a2a;
 }
 
 p,
 input,
 li {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Dancing Script';
     color: #2a2a2a;
     font-size: 20px;
 }
@@ -73,7 +73,7 @@ footer {
 
 nav {
     height: 50px;
-    background-color: #664C43;
+    background-color: #1e1e27;
     display: flex;
     margin-bottom: 10px;
 }
@@ -96,7 +96,7 @@ nav a {
     font-size: 2rem;
     text-transform: uppercase;
     text-decoration: none;
-    color: #FF9F1C;
+    color: #32bec0;
 }
 
 nav form {
@@ -127,11 +127,11 @@ article {
 aside {
     flex: 1;
     margin-left: 10px;
-    background-color: #5F5449;
+    background-color: #233557;
 }
 
 aside h2 {
-    text-shadow: #FC0 1px 0 10px;
+    text-shadow: rgb(30, 196, 182) 1px 0 10px;
 }
 
 aside li {
@@ -139,7 +139,7 @@ aside li {
 }
 
 aside li a {
-    color: #FF9F1C;
+    color: rgb(30, 196, 182);
 }
 
 footer {
